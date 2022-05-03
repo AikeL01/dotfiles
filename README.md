@@ -32,10 +32,7 @@ git clone https://github.com/AikeL01/dotfiles.git && cd dotfiles
 
 # Stuffs In Rice
   - AppLauncher: dmenu
-  - Font: JetBrains Mono, Material
-  - LockScreen: i3lock-color
-  - Notification: dunst
-  - PdfReader: zathura
+  - Font: apple-fonts (https://aur.archlinux.org/packages/apple-fonts)
   - Shell: zsh
   - Terminal: kitty
   - TextEditor: nvim
