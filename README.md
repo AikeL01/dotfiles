@@ -2,7 +2,7 @@
 <h4 align="center">dotfiles by AikeL01</h4>
 
 <p align="center">
-  <img src="preview.png">
+  <img src="preview.gif">
 </p>
 
 # Installation
