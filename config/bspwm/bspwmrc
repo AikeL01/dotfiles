@@ -5,6 +5,7 @@ killall sxhkd; sxhkd &
 feh --bg-fill -r -z $HOME/Pictures/Wallpapers &
 redshift -x && redshift -O 4000k &
 xsetroot -cursor_name left_ptr &
+picom -b
 
 #variable
 alias bc='bspc config'
